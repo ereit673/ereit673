@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **contact@alexeremie.com**
 
-- ⚡ Deep Work as a Superpower **I harness the power of deep, focused work to solve complex problems efficiently and deliver clean, high-quality code — no distractions, just results.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
